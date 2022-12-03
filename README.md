@@ -1,4 +1,5 @@
 # Year-1-Programming-Assignment
+ Created in C
  A program that allows a user to enter 6 numbers they select for the lotto. They are then given 6 options that each carry out
  a specific requirement.Each of these 6 different tasks is executed in different functions each having their own specific purpose where
  the program displays a simple menu where each option of this menu will call a different function that carries out one of the 6 tasks for 
